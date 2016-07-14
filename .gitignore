@@ -1,0 +1,7 @@
+.idea
+nbproject
+.DS_Store
+Thumbs.db
+/vendor
+/composer.lock
+composer.phar

@@ -1,0 +1,28 @@
+{
+  "name": "bashkarev/yii-swiftmailer",
+  "description": "The SwiftMailer integration for the Yii framework",
+  "keywords": [
+    "yii1",
+    "swift",
+    "swiftmailer",
+    "mail",
+    "email",
+    "mailer"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Dmitriy Bashkarev",
+      "email": "dmitriy@bashkarev.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii": ">=1.1.14",
+    "swiftmailer/swiftmailer": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "bashkarev\\swiftmailer\\": ""
+    }
+  }
+}
